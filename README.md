@@ -27,9 +27,6 @@ In this process, we have focused on analyzing and preprocessing data sets as wel
 3. Amount: Transaction amount.
 4. Class: Class label, where 1 indicates a fraudulent transaction and 0 indicates a legitimate transaction.
 
-# References
-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
-
 # Results
 The results have revealed that both the models Logistic Regression and Random Forest achieved a high accuracy. However, there were several differences in their performance: 
 1. Logistic Regression has achieved an accuracy of 92.39%, as the linear nature of the algorithm make it difficult to analyze complex patterns in the data resulting in comparatively lower accuracy.
@@ -37,3 +34,6 @@ The results have revealed that both the models Logistic Regression and Random Fo
 
 # Conclusion
 Through the experiments, we have shown that Random Forest offers higher accuracy concluding that Random Forest is better choice to handle nonlinear and complex data. 
+
+# References
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
