@@ -3,6 +3,8 @@
 # Overview
 This project leverages Artificial Intelligence and Machine Learning (AIML) technologies to detect fraudulent credit card transactions. By developing intelligent systems that can automatically identify potentially fraudulent transactions using transaction data, we aim to enhance the security of financial transactions and reduce financial losses due to fraud.
 
+In this process, we have focused on analyzing and preprocessing data sets as well as using a supervised learning algorithm - Logistic Regression and Random Forest. This presents a comparative study of these two supervised learning algorithms.
+
 # Features
 1. Fraud Detection: Machine learning models to classify transactions as either legitimate or fraudulent based on transaction data.
 
@@ -10,7 +12,7 @@ This project leverages Artificial Intelligence and Machine Learning (AIML) techn
 1. Programming Languages: Python
 2. Libraries: Numpy, Pandas
 3. Machine Learning Frameworks: Scikit-learn
-4. Tools: Google Colab
+4. Tools: Google Colab, Jupyter Notebook
 
 # Usage
 1. Data Collection: Gather transaction data including features such as transaction amount, time, and other relevant variables.
